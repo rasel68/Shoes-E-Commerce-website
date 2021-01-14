@@ -1,0 +1,38 @@
+img{
+    width: 250px;
+}
+.width img{
+    width: 99%;
+}
+.half-width{
+    width: 50%;
+    float: left;
+    padding-left: 10%;
+    margin-top: 13%;
+}
+.highlight{
+    color: #FA804C;
+}
+.bg-color{
+    background-color: #FFF9F4;
+    width: 100%;
+    
+}
+.btn img{
+    width: 20px;
+}
+.highlight1 img{
+    width: 140px;
+}
+.second-width img{
+    width: 45%;
+    padding-bottom: 18%;
+    margin-top: 8%;
+}
+.panda-card{
+    border: 0;
+}
+footer{
+    text-align: center;
+}
+
